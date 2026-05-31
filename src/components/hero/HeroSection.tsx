@@ -71,7 +71,8 @@ export function HeroSection() {
           >
             Poznaj AMK
           </a>
-      </motion.div>
+        </motion.div> {/* <- POPRAWIONO: Dodano domknięcie motion.div dla przycisków */}
+      </div> {/* <- POPRAWIONO: Dodano domknięcie głównego kontenera div z tekstem */}
 
       <motion.a
         href="#kolekcja"

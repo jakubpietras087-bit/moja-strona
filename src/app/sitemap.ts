@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   // Pobierz Twój aktualny adres URL z Vercela (np. https://moja-strona.vercel.app)
-  const baseUrl = 'https://twoja-nazwa-projektu.vercel.app'; 
+  const baseUrl = https://moja-strona-yqyq.vercel.app/; 
 
   return [
     {

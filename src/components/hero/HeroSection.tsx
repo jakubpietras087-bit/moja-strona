@@ -71,7 +71,6 @@ export function HeroSection() {
           >
             Poznaj AMK
           </a>
-        </motion.div>
       </motion.div>
 
       <motion.a

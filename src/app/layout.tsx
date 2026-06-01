@@ -29,8 +29,9 @@ export const metadata: Metadata = {
     "AMK",
     "luksusowa poduszka",
   ],
+  // 👇 TUTAJ ZOSTAŁ SAM CZYSTY KOD, BEZ ZNACZNIKÓW HTML. TERAZ JEST IDEALNIE!
   verification: {
-    google:<meta name="google-site-verification" content="EV6SQxndEnVGtHvweE1ZSsIN-ie91sfWsOuAxdczw2I" />,
+    google: "EV6SQxndEnVGtHvweE1ZSsIN-ie91sfWsOuAxdczw2I",
   },
   openGraph: {
     title: "AMK — Quiet Luxury w Ortopedii Snu",

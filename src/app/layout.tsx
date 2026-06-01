@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     "luksusowa poduszka",
   ],
   verification: {
-    google:google-site-verification=BxDdoupkqqBtq_K8Kruq7hZmz8cWfYyeENmP4V0gJd4,
+    google:<meta name="google-site-verification" content="EV6SQxndEnVGtHvweE1ZSsIN-ie91sfWsOuAxdczw2I" />,
   },
   openGraph: {
     title: "AMK — Quiet Luxury w Ortopedii Snu",

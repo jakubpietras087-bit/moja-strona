@@ -29,7 +29,6 @@ export const metadata: Metadata = {
     "AMK",
     "luksusowa poduszka",
   ],
-  // 👇 TUTAJ ZOSTAŁ SAM CZYSTY KOD, BEZ ZNACZNIKÓW HTML. TERAZ JEST IDEALNIE!
   verification: {
     google: "EV6SQxndEnVGtHvweE1ZSsIN-ie91sfWsOuAxdczw2I",
   },
